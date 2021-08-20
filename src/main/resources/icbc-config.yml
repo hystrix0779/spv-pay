@@ -1,0 +1,17 @@
+icbc:
+  test:
+    version: "1.0.0.0"
+    mer_id: "chainNotCheck"
+    app_id: "gyj.chainNotCheck"
+    charset: "UTF-8"
+    pri_key: "MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOYO7r31CNkaRAxwv2AuNI8rm5YwsbHC5ZdRCUkeG64IVoVUaVOI/dgnt4N0JBOKvIJxXA0JoWxi7hpd1jltMkCA/+8gFpO1S9PLs//VV0Afc6bjSgln7cCd4Qrojkh6ampNZzE6m9FPjWR8vWrLZyW01k239/F7hvux9Q1nZx9THrDjtSIQ7ssoI9ivQ7jZ/V/7dzpHlvtmCX7HnF0RHorMWltHw78buOgIFbdcYfqeb9Mwk0mxHnQH09lzjiAC/c7lXERDa2gEfahflZYDFRI711jsC6duuO5GDmhdzjHCLMy3MyiQR2awqQCTIEaomufW0D6OUGRjHm/sLyrjLjAgMBAAECggEBAK71IDdYhwqtSIkd9XbmtdZW57pRS8380xJFmvvIvIvX4WE0wfSpEdWg05lzhziRmZfCAsAGWEssUfw7x/awm2i1aRIiCa4zfUA8ZyX1V2dUb0naucTWMM/LkbWksSrEETS/E4pVRhWk3NuT3CuvGbDS1EbHikutSU93XDIEzj8GL3/5o42CHnVvJFAdFcVXOTg8h4vcV1FPUChoZpun31jr+LpkR5mAOnPZ5t0QzWl1lL3kcVJRwG64AAKPlti8WGP+gj1aDPup9+89w/VfRnuUhvf3UHxOT0lDKJRmh4KZHCWnJ12r7RaY+WW1YgdWnCJf0ZNOOCs5VvE11itC3CkCgYEA9MQ6XXomlJtPbvMJ9msfb3bjB1naxoF18CGAIQYolMchJDkHQLRZBxzxL3ahv6yowgMO7LY5ZaU0DHYxoip5GAyBIgHsJMKTNIIli3U2SOdGgjQ2nHU7a3mc6702w03lqWYYZt2SGLy4FaeVAKHcok0kn9RiW3q2aVQHufRrRocCgYEA19mvQq2fCIOYMbp5Xu8B2rnPvEbxqlpLi92vI9jkdB1cM0s6sH0BELCODKrvD6GWp5XP1KMxNchDxEEX0DEpSLNQxFOrhNaaUXmESRt0h8y1dbJ9csFhBwWiRsSwmFAW8LD+KI8/BNELyfAc59QmY6xlxb+LkkLLVmIXi6BF68UCgYEAqsm1M/6EpxLL1U3ueKv8jkk1Vq7C8dnpkjm97s0eSdm8bUsBnYt5x3XRcN3lNRpj0qRRqKfp2tvwOnXKYi4iur4W6MTQokHGd1AMpIeP7kS6NSX7qSY/5NlBvlgTuylCg/YCNtyKEYq1JB7/4CYRDoqncILAcrZoS4xfq8g5hkcCgYA8m7Eshdfb6id3/yZJU88vfXEpKrp83PHNiie9Zw9u0zeqZ3tJRzBfYVPhlrWdq//Dertqt4//zAXLO4PWP5eaBE+vcNb+a8vVCMvuQzlLUF27eKzk5gu6jwhr2prDiemHGAulk+NcFN68iyFyrw1Ae43wIsKsBPlXfh+iYxR/CQKBgDs+BgANCoVK3PbU7Hd1YJKTHN+a8wIpQ38d/k/rhaAfxgIljqJzEUcCQ7XbeYQ0gGok0cQeYf1Tfhdox9X9VhNOQiSfqFdwDEeZaFyfm02A+U3iqHTRF8mHZpyk3qN5SJofBoYMpQc4zj2ystb3IPpfSdRJsVeNfIY+o4cG1QB1"
+    api_url: "https://gyjapi1.dccnet.com.cn/api"
+    api_name_prefix: "com.icbc.gyj.spvtest."
+  prod:
+    version: "1.0.0.0"
+    mer_id: ""
+    app_id: ""
+    charset: "UTF-8"
+    pri_key: ""
+    api_url: "https://gyjapi1.dccnet.com.cn/api"
+    api_name_prefix: "com.icbc.gyj.spv."
